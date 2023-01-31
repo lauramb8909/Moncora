@@ -8,4 +8,5 @@ chapters:
   sections:
     - file: Principios
     - file: CienciaAbierta
-- file : Intro_Python
+- file : Jupyter_Notebooks/Intro_Python
+- file : Jupyter_Notebooks/apiMakeSens
