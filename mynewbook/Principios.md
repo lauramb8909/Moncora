@@ -6,11 +6,11 @@
 Here's the first card.
 :::
 
-:::{grid-item-card} Producción de un resultado científico!
+:::{grid-item-card} 2. Producción de un resultado científico!
 Here's the second card.
 :::
 
-:::{grid-item-card} Beneficio colectivo!
+:::{grid-item-card} 3. Beneficio colectivo!
 Here's the third card.
 :::
 ::::

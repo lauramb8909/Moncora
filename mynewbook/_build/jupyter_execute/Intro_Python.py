@@ -1,47 +1,19 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Hola Mundo
+# # ¿Qué es Python?
 # 
-# Las celdas de código se pueden correr individualmente con **ctrl+enter**.
+# [Python](https://www.python.org/) es un lenguaje de programación de propósito general creado por el aleman Guido van Rossum en 1989. Python es **libre** y de **código abierto**
+# 
+# 
+# ```{note}
+# Ventajas:
+# ```
+# 
+# ## Hola Mundo
 
 # In[1]:
 
 
 print("Hola Mundo")
-
-
-# # Variables
-# 
-# La variables en python no deben ser declaradas, se definen al usarlas por primera vez
-
-# In[2]:
-
-
-x="hola"
-print(x)
-
-x=5
-print(x)
-
-y=x+2.5
-print(y)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 

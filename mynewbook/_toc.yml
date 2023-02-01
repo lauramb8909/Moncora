@@ -3,12 +3,18 @@
 
 format: jb-book
 root: intro
-chapters:
-  - file: CienciaCiudadana
-    sections:
+parts:
+  - caption: Introducción
+    chapters:
+    - file: CienciaCiudadana
+      sections:
       - file: Principios
       - file: CienciaAbierta
-  - file: CambioClimatico
-  - file : Jupyter_Notebooks/Intro_Python
-    sections:
+    - file: CambioClimatico
+    - file: VariablesClimaticas
+  - caption: Programación en python
+    chapters:
+    - file : Intro_Python
+      sections:
+      - file : Jupyter_Notebooks/Python_I
       - file : Jupyter_Notebooks/apiMakeSens

@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Hola Mundo &#8212; Proyecto Moncora Adaptación al Cambio Climatico</title>
+    <title>¿Qué es Python? &#8212; Proyecto Moncora Adaptación al Cambio Climatico</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -52,7 +52,8 @@ const thebe_selector_output = ".output, .cell_output"
     <script async="async" src="_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="prev" title="Ciencia Abierta" href="CienciaAbierta.html" />
+    <link rel="next" title="Hola Mundo" href="Jupyter_Notebooks/Python_I.html" />
+    <link rel="prev" title="Variables Climáticas" href="VariablesClimaticas.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -112,7 +113,12 @@ const thebe_selector_output = ".output, .cell_output"
                 </a>
             </li>
         </ul>
-        <ul class="current nav bd-sidenav">
+        <p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Introducción
+ </span>
+</p>
+<ul class="nav bd-sidenav">
  <li class="toctree-l1 has-children">
   <a class="reference internal" href="CienciaCiudadana.html">
    ¿Qué es la Ciencia Ciudadana?
@@ -135,10 +141,44 @@ const thebe_selector_output = ".output, .cell_output"
    </li>
   </ul>
  </li>
- <li class="toctree-l1 current active">
-  <a class="current reference internal" href="#">
-   Hola Mundo
+ <li class="toctree-l1">
+  <a class="reference internal" href="CambioClimatico.html">
+   Cambio Climático
   </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="VariablesClimaticas.html">
+   Variables Climáticas
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Programación en python
+ </span>
+</p>
+<ul class="current nav bd-sidenav">
+ <li class="toctree-l1 current active has-children">
+  <a class="current reference internal" href="#">
+   ¿Qué es Python?
+  </a>
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="Jupyter_Notebooks/Python_I.html">
+     Hola Mundo
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="Jupyter_Notebooks/apiMakeSens.html">
+     Uso del API MakeSens
+    </a>
+   </li>
+  </ul>
  </li>
 </ul>
 
@@ -199,7 +239,7 @@ title="Toggle navigation"
   <div class="menu-dropdown__content">
     <ul>
       <li>
-        <a href="https://mybinder.org/v2/gh/lauramb8909/Moncora.git/master?urlpath=tree/./mynewbook/Intro_Python.ipynb"
+        <a href="https://mybinder.org/v2/gh/lauramb8909/Moncora.git/master?urlpath=tree/./mynewbook/Intro_Python.md"
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -291,6 +331,23 @@ title="Open an issue"
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
+title="Download notebook file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-code"></i>
+  </span>
+<span class="headerbtn__text-container">.ipynb</span>
+</a>
+
+      </li>
+      
+      <li>
+        <a href="_sources/Intro_Python.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
 title="Download source file"
 >
   
@@ -298,7 +355,7 @@ title="Download source file"
 <span class="headerbtn__icon-container">
   <i class="fas fa-file"></i>
   </span>
-<span class="headerbtn__text-container">.ipynb</span>
+<span class="headerbtn__text-container">.md</span>
 </a>
 
       </li>
@@ -346,14 +403,9 @@ title="Print to PDF"
     </div>
     <nav id="bd-toc-nav" aria-label="Page">
         <ul class="visible nav section-nav flex-column">
- <li class="toc-h1 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#hola-mundo">
    Hola Mundo
-  </a>
- </li>
- <li class="toc-h1 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#variables">
-   Variables
   </a>
  </li>
 </ul>
@@ -365,7 +417,7 @@ title="Print to PDF"
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Hola Mundo</h1>
+                <h1>¿Qué es Python?</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -375,14 +427,9 @@ title="Print to PDF"
                         </div>
                         <nav aria-label="Page">
                             <ul class="visible nav section-nav flex-column">
- <li class="toc-h1 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#hola-mundo">
    Hola Mundo
-  </a>
- </li>
- <li class="toc-h1 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#variables">
-   Variables
   </a>
  </li>
 </ul>
@@ -395,9 +442,15 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="hola-mundo">
-<h1>Hola Mundo<a class="headerlink" href="#hola-mundo" title="Permalink to this headline">#</a></h1>
-<p>Las celdas de código se pueden correr individualmente con <strong>ctrl+enter</strong>.</p>
+  <section class="tex2jax_ignore mathjax_ignore" id="que-es-python">
+<h1>¿Qué es Python?<a class="headerlink" href="#que-es-python" title="Permalink to this headline">#</a></h1>
+<p><a class="reference external" href="https://www.python.org/">Python</a> es un lenguaje de programación de propósito general creado por el aleman Guido van Rossum en 1989. Python es <strong>libre</strong> y de <strong>código abierto</strong></p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Ventajas:</p>
+</div>
+<section id="hola-mundo">
+<h2>Hola Mundo<a class="headerlink" href="#hola-mundo" title="Permalink to this headline">#</a></h2>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Hola Mundo&quot;</span><span class="p">)</span>
@@ -411,29 +464,7 @@ title="Print to PDF"
 </div>
 </div>
 </section>
-<section class="tex2jax_ignore mathjax_ignore" id="variables">
-<h1>Variables<a class="headerlink" href="#variables" title="Permalink to this headline">#</a></h1>
-<p>La variables en python no deben ser declaradas, se definen al usarlas por primera vez</p>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">x</span><span class="o">=</span><span class="s2">&quot;hola&quot;</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
-
-<span class="n">x</span><span class="o">=</span><span class="mi">5</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
-
-<span class="n">y</span><span class="o">=</span><span class="n">x</span><span class="o">+</span><span class="mf">2.5</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">y</span><span class="p">)</span>
-</pre></div>
-</div>
-</div>
-<div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>hola
-5
-7.5
-</pre></div>
-</div>
-</div>
+<div class="toctree-wrapper compound">
 </div>
 </section>
 
@@ -464,12 +495,19 @@ title="Print to PDF"
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
-    <a class='left-prev' id="prev-link" href="CienciaAbierta.html" title="previous page">
+    <a class='left-prev' id="prev-link" href="VariablesClimaticas.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
             <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">Ciencia Abierta</p>
+            <p class="prev-next-title">Variables Climáticas</p>
         </div>
+    </a>
+    <a class='right-next' id="next-link" href="Jupyter_Notebooks/Python_I.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Hola Mundo</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
     </a>
 </div>
             </footer>
