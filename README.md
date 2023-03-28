@@ -1,7 +1,7 @@
 # Bienvenidos al Proyecto Móncora
 Clubes de ciencia para la adaptación al cambio climático
 
-##¿Qué es el Proyecto Móncora?
+## ¿Qué es el Proyecto Móncora?
 
 Móncora es un proyecto de ciencia ciudadana que busca formar  semilleros de ciencia  en los colegios de  Bucaramanga y con ello exponer tempranamente a los estudiantes de secundaria a ambientes y herramientas de investigación científica.
 
