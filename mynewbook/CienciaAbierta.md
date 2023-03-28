@@ -1,3 +1,0 @@
-# Ciencia Abierta
-
-
