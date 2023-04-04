@@ -55,7 +55,7 @@ We will conclude with a **Science Fair** in which all the seed groups share the 
 
 ## How can you contribute?
 
-- If you are part of an institution in Bucaramanga and/or Santander and want us to reach your institution or if you want to reproduce this project in your community and want to know more about our experience, you can contact<a href="mailto:halleyuis@uis.edu.co">us </a>
+- If you are part of an institution in Bucaramanga and/or Santander and want us to reach your institution or if you want to reproduce this project in your community and want to know more about our experience, you can contact<a href="mailto:halleyuis@uis.edu.co"> us </a>
 - If you want to use the meteorological data from our network of stations, you can find more information at:
 [Makesens](https://docs.makesens.co/help/)
 
