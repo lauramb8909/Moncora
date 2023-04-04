@@ -1,4 +1,4 @@
-<img src="/Images/LogoHalleyTrans.png" alt="HalleyLogo" title="Halley logo" 
+<img src="./Images/LogoHalleyTrans.png" alt="HalleyLogo" title="Halley logo" 
      width="300px" align="top" >
 
 
@@ -14,7 +14,7 @@ Móncora es un proyecto de ciencia ciudadana que busca formar  semilleros de cie
 Este proyecto educativo se basa en la enseñanza del cambio climático  por medio del análisis de  datos meteorológicos de estaciones de bajo costo, con el objetivo  de identificar señales de contaminación y su correlación con los eventos de la vida cotidiana.
 
 ### Estaciones de monitoreo ambiental 
-<img src="/Images/eva.png" alt="MiniEva" title="MiniEva" 
+<img src="./Images/eva.png" alt="MiniEva" title="MiniEva" 
      width="200px" align="left" >
 
 En cada una de las instuticiones educativas que hacen parte del proyecto se instalará una estación de monitoreo ambiental  [**MiniEVA**](https://makesens.co/), especialmente diseñada para medir la contaminación por partículas **PM1, PM2.5 y PM10**, pero también se pueden obtener mediciones de la **temperatura**, **presión** y  **humedad relativa** de la zona donde esté ubicada.
