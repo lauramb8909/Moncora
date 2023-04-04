@@ -4,14 +4,14 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/halleyuis?lang=es)
 
-# Bienvenidos al Proyecto Móncora
-> Clubes de ciencia para la adaptación al cambio climático
+# Welcome to the Móncora Project!
+> Science clubs for climate change adaptation
 
-## ¿Qué es el Proyecto Móncora?
+## What is the Móncora Project?
 
-Móncora es un proyecto de ciencia ciudadana que busca formar  semilleros de ciencia  en los colegios de  Bucaramanga y con ello exponer tempranamente a los estudiantes de secundaria a ambientes y herramientas de investigación científica.
+Móncora is a citizen science project that aims to form science clubs in schools in Bucaramanga, exposing high school students to scientific research environments and tools at an early age.
 
-Este proyecto educativo se basa en la enseñanza del cambio climático  por medio del análisis de  datos meteorológicos de estaciones de bajo costo, con el objetivo  de identificar señales de contaminación y su correlación con los eventos de la vida cotidiana.
+This educational project is based on teaching about climate change through the analysis of low-cost weather data stations, with the objective of identifying pollution signals and their correlation with everyday life events.
 
 ### Estaciones de monitoreo ambiental 
 <img src="/Images/eva.png" alt="MiniEva" title="MiniEva" 
