@@ -1,6 +1,6 @@
 <img src="./Images/LogoHalleyTrans.png" alt="HalleyLogo" title="Halley logo" 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
      width="300px" align="left top" > 
 
@@ -96,6 +96,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/FelipeOrtiz1012"><img src="https://avatars.githubusercontent.com/u/108496337?v=4?s=100" width="100px;" alt="FelipeOrtiz1012"/><br /><sub><b>FelipeOrtiz1012</b></sub></a><br /><a href="#design-FelipeOrtiz1012" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/lauramb8909"><img src="https://avatars.githubusercontent.com/u/60829044?v=4?s=100" width="100px;" alt="Laura B"/><br /><sub><b>Laura B</b></sub></a><br /><a href="#design-lauramb8909" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/XaxaSM"><img src="https://avatars.githubusercontent.com/u/50151975?v=4?s=100" width="100px;" alt="Alexa SM"/><br /><sub><b>Alexa SM</b></sub></a><br /><a href="#design-XaxaSM" title="Design">🎨</a></td>
     </tr>
   </tbody>
 </table>
