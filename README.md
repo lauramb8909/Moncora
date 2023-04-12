@@ -1,4 +1,7 @@
 <img src="./Images/LogoHalleyTrans.png" alt="HalleyLogo" title="Halley logo" 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
      width="300px" align="left top" > 
 
 
@@ -80,3 +83,25 @@ Finalizaremos con una  **Feria de la Ciencia** en la que todos los semilleros so
 ## Agradecimientos
 
 <img src="./Images/logo_uis.png" alt="UISLogo" title="UIS logo"  width="150px" align="left " >    <img src="./Images/LaConga.png" alt="LaCongaLogo" title="LaConga logo"  width="150px" align="center " > 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/FelipeOrtiz1012"><img src="https://avatars.githubusercontent.com/u/108496337?v=4?s=100" width="100px;" alt="FelipeOrtiz1012"/><br /><sub><b>FelipeOrtiz1012</b></sub></a><br /><a href="#design-FelipeOrtiz1012" title="Design">🎨</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
