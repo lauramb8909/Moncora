@@ -2,14 +2,17 @@
      width="300px" align="left top" > 
 
 
-
-# Bienvenidos al Proyecto Móncora
-> Clubes de ciencia para la adaptación al cambio climático
-
 [![Twitter](https://img.shields.io/twitter/follow/halleyUIS?style=social)](https://twitter.com/halleyuis?lang=es) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitmilab.redclara.net%2FhalleyUIS%2Fmoncora.git/HEAD)  [![Visita el sitio](https://img.shields.io/badge/Visita-el%20sitio-blue)](https://class.redclara.net/halley/moncora/intro.html)
 
 
+
+# Bienvenidos al Proyecto RACIMO-Móncora
+
+> Este archivo README.md también esta disponible en ingles ([README-english](https://github.com/lauramb8909/Moncora/blob/main/README_ENGLISH.md))
+
 ## ¿Qué es el Proyecto Móncora?
+
+> Clubes de ciencia para la adaptación al cambio climático
 
 Móncora es un proyecto de ciencia ciudadana que busca formar  semilleros de ciencia  en los colegios de  Bucaramanga y con ello exponer tempranamente a los estudiantes de secundaria a ambientes y herramientas de investigación científica.
 
