@@ -1,8 +1,9 @@
-<img src="./Images/LogoHalleyTrans.png" alt="HalleyLogo" title="Halley logo" 
+<img src="./Images/LogoHalleyTrans.png" alt="HalleyLogo" title="Halley logo" width="300px" align="left top" > 
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-     width="300px" align="left top" > 
+     
 
 
 [![Twitter](https://img.shields.io/twitter/follow/halleyUIS?style=social)](https://twitter.com/halleyuis?lang=es) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitmilab.redclara.net%2FhalleyUIS%2Fmoncora.git/HEAD)  [![Visita el sitio](https://img.shields.io/badge/Visita-el%20sitio-blue)](https://class.redclara.net/halley/moncora/intro.html)
